@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Stephanie 🎀💻
 
-<!--
-**stephaniefab-dev/stephaniefab-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇬🇹 Guatemala · Ingeniería en Sistemas
 
-Here are some ideas to get you started:
+Tech girl aprendiendo sobre datos, programación, desarrollo e inteligencia
+artificial. Cuando no estoy programando, probablemente estoy planeando mi
+próximo viaje o buscando la siguiente aventura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesan los datos, el cloud, la inteligencia artificial generativa,
+el backend y el frontend. Este espacio documenta lo que voy aprendiendo
+y experimentando en el camino, poco a poco.
+
+Actualmente estudiando para las certificaciones de AWS Cloud Practitioner
+y AI Practitioner, y armando mis primeros proyectos personales.
+
+🔗 Sígueme en mis redes:
+- TikTok: @stephaniefab
+- Instagram: @stephaniee.ab
